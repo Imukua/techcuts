@@ -4,6 +4,16 @@ Introduction
 
 This Bash script is designed to simplify the process of creating and editing Python scripts. The script includes several features, such as adding a shebang to the file, opening the file in vi editor, checking the file with pycodestyle, and making the file executable.
 
+Installation / download
+-----------------------
+To use, download the script frm the github link below.
+
+https://raw.githubusercontent.com/Imukua/techcuts/main/pycuts.sh
+
+Before first use first make the script executable by running:
+
+`chmod +x pycuts.sh`
+
 Usage
 -----
 
