@@ -28,7 +28,7 @@ Shebang Addition
 
 The script adds a Python3 shebang to the beginning of the file. This is done automatically before opening the file in the vi editor.
 
-Line numbers in VI!
+Line numbers in vi!
 ---------
 
 The script uses the vi editor to open the file for editing. By default, line numbers are enabled in vi.
